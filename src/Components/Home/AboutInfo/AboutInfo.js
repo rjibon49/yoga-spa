@@ -3,7 +3,6 @@ import '../../../Style/Style.css';
 import { Link } from 'react-router-dom';
 
 const AboutInfo = () => {
-    // const firstIcon= <FontAwesomeIcon icon={f} />
     return (
         <div className="about-info" >
             <div className="container px-5">
