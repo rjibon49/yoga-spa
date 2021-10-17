@@ -1,5 +1,5 @@
 import React from 'react';
-import '../../../Style/Style.css';
+import '../../../GlobalStyle/GlobalStyle.css';
 import { Link } from 'react-router-dom';
 
 const AboutInfo = () => {
