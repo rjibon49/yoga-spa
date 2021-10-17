@@ -1,0 +1,28 @@
+/* Divider Color  */
+.divide {
+    width: 50px;
+    border: 4px solid #ff56dd;
+}
+.icon-color {
+    color: rgb(245, 24, 153);
+    padding: 10px;
+}
+/* Banner Style  */
+.banner-bg {
+    background-image: url(../Images/Banner/banner-bg.jpg);
+    background-repeat: round;
+    background-size: auto;
+    min-height: 835px;
+}
+
+.banner-title {
+    padding-top: 250px;
+}
+
+/* About-Info Style  */
+.about-info {
+    background-image: url(../Images/Banner/aboutinfo.jpg);
+    background-repeat: round;
+    background-size: auto;
+    min-height: 650px;
+}
