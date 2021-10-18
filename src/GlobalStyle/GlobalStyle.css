@@ -7,6 +7,28 @@
     color: rgb(245, 24, 153);
     padding: 10px;
 }
+
+/* Header Style  */
+.dropdown-menu-item {
+    position: absolute;
+    z-index: 1000;
+    display: none;
+    /* min-width: 10rem; */
+    /* padding: .5rem 0; */
+    margin: 0;
+    font-size: 1rem;
+    color: #212529;
+    text-align: left;
+    list-style: none;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid rgba(0,0,0,.15);
+    border-radius: .25rem;
+    top: 118%;
+    margin-top: .125rem;
+    right: -40px;
+    line-height: 2em;
+}
 /* Banner Style  */
 .banner-bg {
     background-image: url(../Images/Banner/banner-bg.jpg);
@@ -52,4 +74,50 @@
 	opacity: 0;
 	transition: 1s ease 0.3s;
     margin: 20px 0;
+}
+
+/* Instrctor Page Style  */
+.instructor-bg {
+	background-image: url(../Images/Banner/instractor-bg.jpg);
+	background-size: cover;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    min-height: 500px;
+    background-position: center;
+}
+.title-center {
+	padding-top: 15%;
+}
+.title-text {
+	font-size: 70px;
+	font-weight: 700;
+	letter-spacing: 5px;
+}
+
+/* Instructor Details Page  */
+.instructor-title {
+	padding: 0;
+	margin: 0;
+	background-color: rgb(38 36 36 / 50%);
+	background-size: cover;
+	height: 700px;
+	z-index: 1000;
+}
+.Instructor-details {
+	width: 820px;
+    margin: 0 auto;
+    padding-top: 15%;
+}
+.instructor {
+	text-align: center;
+	font-size: 80px;
+	text-align: center;
+	font-weight: 700;
+	color: white;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+}
+
+.instructor-img {
+	margin-top: -120px;
 }

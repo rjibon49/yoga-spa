@@ -6,6 +6,9 @@ import About from './Components/About/About';
 import Signup from './Components/Form/Signup';
 import Signin from './Components/Form/Signin/Signin';
 import AuthProvider from './context/AuthProvider';
+import Instructors from './Components/Instructors/Instructors';
+import InstructorDetails from './Components/Instructors/InstructorDetails';
+import NotFound from './Components/NotFound';
 
 function App() {
   return (
@@ -23,11 +26,20 @@ function App() {
               <Route exact path="/about">
                 <About></About>
               </Route>
+              <Route exact path="/instructors">
+                <Instructors></Instructors>
+              </Route>
+              <Route path="/instructors/:tutorId">
+                <InstructorDetails></InstructorDetails>
+              </Route>
               <Route exact path="/signup">
                 <Signup></Signup>
               </Route>
               <Route exact path="/signin">
                 <Signin></Signin>
+              </Route>
+              <Route path="*">
+                <NotFound></NotFound>
               </Route>
               
             </Switch>

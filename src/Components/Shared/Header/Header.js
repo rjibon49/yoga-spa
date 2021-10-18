@@ -5,7 +5,7 @@ import React from 'react';
 import { Container, Form, FormControl, Nav, Navbar, Button } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import useAuth from '../../../hooks/useAuth';
-import  './Header.css';
+import  '../../../GlobalStyle/GlobalStyle.css';
 
 const Header = () => {
   const userCircle = <FontAwesomeIcon icon={faUserCircle} />
@@ -21,6 +21,7 @@ const Header = () => {
                     <Nav className="mx-auto my-4 my-lg-0" >
                       <Nav.Link as={Link} to="/home">Home</Nav.Link>
                       <Nav.Link as={Link} to="/about">About</Nav.Link>
+                      <Nav.Link as={Link} to="/instructors">Instructor</Nav.Link>
                       {user?.email ?
                       <Button onClick={logout} variant="warning">Logout</Button> :
                       <Nav.Link as={Link} to="/signin">{userCircle}</Nav.Link>}

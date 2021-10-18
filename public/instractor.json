@@ -2,7 +2,8 @@
     {
       "id": 1,
       "title": "ASHLEY GALVIN",
-      "images":"https://i.ibb.co/Yyzgm48/cooperate.png",
+      "images":"https://i.ibb.co/cxqPHMZ/normal1.jpg",
+      "coverImage":"https://i.ibb.co/8gMFwtZ/bg1.jpg",
       "description" :[ {
           "part1" : "Ashley Galvin is a yoga instructor based in Southern California. She is known around the world for her strength and flexibility, and she constantly inspires others with her yoga practice.",
           "part2":"Ashley spent her childhood between the beaches and mountains of California. Inspired by the healthy lifestyle of her parents, she embarked on a journey to learn more about nutrition and the benefits of active living. That path led her to her first yoga class in 2009, where she fell in love with the practice.",
@@ -24,14 +25,15 @@
     },
     {
       "id": 2,
-      "title": "ASHLEY GALVIN",
-      "images":"https://i.ibb.co/Yyzgm48/cooperate.png",
+      "title": "dylan Werner",
+      "images":"https://i.ibb.co/dDDZpyX/normal2.jpg",
+      "coverImage":"https://i.ibb.co/qBTmrTb/bg2.jpg",
       "description" :[ {
           "part1" : "Ashley Galvin is a yoga instructor based in Southern California. She is known around the world for her strength and flexibility, and she constantly inspires others with her yoga practice.",
           "part2":"Ashley spent her childhood between the beaches and mountains of California. Inspired by the healthy lifestyle of her parents, she embarked on a journey to learn more about nutrition and the benefits of active living. That path led her to her first yoga class in 2009, where she fell in love with the practice.",
           "part3":"Determined to help empower others through yoga, she began teaching in 2011 and has since taught workshops, retreats, and classes all over the world. Her strong, dynamic flows help cultivate body awareness, empower others to embrace their unique gifts, and give students a deep understanding of their yoga practice."
           }],
-        "series":"ASHLEY’S SERIES",
+        "series":"dylan’S SERIES",
         "classes":[{
             "class_id":2,
             "class_img":"https://i.ibb.co/Yyzgm48/cooperate.png",
@@ -47,14 +49,15 @@
     },
     {
       "id": 3,
-      "title": "ASHLEY GALVIN",
-      "images":"https://i.ibb.co/Yyzgm48/cooperate.png",
+      "title": "Briohny Smyth",
+      "images":"https://i.ibb.co/8z29S6Q/normal3.jpg",
+      "coverImage":"https://i.ibb.co/Dpg7jjG/bg3.jpg",
       "description" :[ {
           "part1" : "Ashley Galvin is a yoga instructor based in Southern California. She is known around the world for her strength and flexibility, and she constantly inspires others with her yoga practice.",
           "part2":"Ashley spent her childhood between the beaches and mountains of California. Inspired by the healthy lifestyle of her parents, she embarked on a journey to learn more about nutrition and the benefits of active living. That path led her to her first yoga class in 2009, where she fell in love with the practice.",
           "part3":"Determined to help empower others through yoga, she began teaching in 2011 and has since taught workshops, retreats, and classes all over the world. Her strong, dynamic flows help cultivate body awareness, empower others to embrace their unique gifts, and give students a deep understanding of their yoga practice."
           }],
-        "series":"ASHLEY’S SERIES",
+        "series":"Briohny’S SERIES",
         "classes":[{
             "class_id":3,
             "class_img":"https://i.ibb.co/Yyzgm48/cooperate.png",
@@ -70,14 +73,15 @@
     },
     {
       "id": 4,
-      "title": "ASHLEY GALVIN",
-      "images":"https://i.ibb.co/Yyzgm48/cooperate.png",
+      "title": "Tawny Janae",
+      "images":"https://i.ibb.co/SVBfBKZ/normal4.jpg",
+      "coverImage":"https://i.ibb.co/VwFNpRp/bg4.jpg",
       "description" :[ {
           "part1" : "Ashley Galvin is a yoga instructor based in Southern California. She is known around the world for her strength and flexibility, and she constantly inspires others with her yoga practice.",
           "part2":"Ashley spent her childhood between the beaches and mountains of California. Inspired by the healthy lifestyle of her parents, she embarked on a journey to learn more about nutrition and the benefits of active living. That path led her to her first yoga class in 2009, where she fell in love with the practice.",
           "part3":"Determined to help empower others through yoga, she began teaching in 2011 and has since taught workshops, retreats, and classes all over the world. Her strong, dynamic flows help cultivate body awareness, empower others to embrace their unique gifts, and give students a deep understanding of their yoga practice."
           }],
-        "series":"ASHLEY’S SERIES",
+        "series":"Tawny’S SERIES",
         "classes":[{
             "class_id":4,
             "class_img":"https://i.ibb.co/Yyzgm48/cooperate.png",
@@ -93,14 +97,15 @@
     },
     {
       "id": 5,
-      "title": "ASHLEY GALVIN",
-      "images":"https://i.ibb.co/Yyzgm48/cooperate.png",
+      "title": "Emily Sferra",
+      "images":"https://i.ibb.co/XtBGsxK/normal5.jpg",
+      "coverImage":"https://i.ibb.co/yVk3DMt/bg5.jpg",
       "description" :[ {
           "part1" : "Ashley Galvin is a yoga instructor based in Southern California. She is known around the world for her strength and flexibility, and she constantly inspires others with her yoga practice.",
           "part2":"Ashley spent her childhood between the beaches and mountains of California. Inspired by the healthy lifestyle of her parents, she embarked on a journey to learn more about nutrition and the benefits of active living. That path led her to her first yoga class in 2009, where she fell in love with the practice.",
           "part3":"Determined to help empower others through yoga, she began teaching in 2011 and has since taught workshops, retreats, and classes all over the world. Her strong, dynamic flows help cultivate body awareness, empower others to embrace their unique gifts, and give students a deep understanding of their yoga practice."
           }],
-        "series":"ASHLEY’S SERIES",
+        "series":"Emily’S SERIES",
         "classes":[{
             "class_id":5,
             "class_img":"https://i.ibb.co/Yyzgm48/cooperate.png",
@@ -116,14 +121,15 @@
     },
     {
       "id": 6,
-      "title": "ASHLEY GALVIN",
-      "images":"https://i.ibb.co/Yyzgm48/cooperate.png",
+      "title": "Patric Beach",
+      "images":"https://i.ibb.co/wgtDHQ9/normal6.jpg",
+      "coverImage":"https://i.ibb.co/SfmkjH3/bg6.jpg",
       "description" :[ {
           "part1" : "Ashley Galvin is a yoga instructor based in Southern California. She is known around the world for her strength and flexibility, and she constantly inspires others with her yoga practice.",
           "part2":"Ashley spent her childhood between the beaches and mountains of California. Inspired by the healthy lifestyle of her parents, she embarked on a journey to learn more about nutrition and the benefits of active living. That path led her to her first yoga class in 2009, where she fell in love with the practice.",
           "part3":"Determined to help empower others through yoga, she began teaching in 2011 and has since taught workshops, retreats, and classes all over the world. Her strong, dynamic flows help cultivate body awareness, empower others to embrace their unique gifts, and give students a deep understanding of their yoga practice."
           }],
-        "series":"ASHLEY’S SERIES",
+        "series":"Patric’S SERIES",
         "classes":[{
             "class_id":6,
             "class_img":"https://i.ibb.co/Yyzgm48/cooperate.png",
@@ -139,14 +145,15 @@
     },
     {
       "id": 7,
-      "title": "ASHLEY GALVIN",
-      "images":"https://i.ibb.co/Yyzgm48/cooperate.png",
+      "title": "Calvin Corzine",
+      "images":"https://i.ibb.co/1LvbFHH/normal7.jpg",
+      "coverImage":"https://i.ibb.co/SNcXRLX/bg7.jpg",
       "description" :[ {
           "part1" : "Ashley Galvin is a yoga instructor based in Southern California. She is known around the world for her strength and flexibility, and she constantly inspires others with her yoga practice.",
           "part2":"Ashley spent her childhood between the beaches and mountains of California. Inspired by the healthy lifestyle of her parents, she embarked on a journey to learn more about nutrition and the benefits of active living. That path led her to her first yoga class in 2009, where she fell in love with the practice.",
           "part3":"Determined to help empower others through yoga, she began teaching in 2011 and has since taught workshops, retreats, and classes all over the world. Her strong, dynamic flows help cultivate body awareness, empower others to embrace their unique gifts, and give students a deep understanding of their yoga practice."
           }],
-        "series":"ASHLEY’S SERIES",
+        "series":"Calvin’S SERIES",
         "classes":[{
             "class_id":7,
             "class_img":"https://i.ibb.co/Yyzgm48/cooperate.png",
@@ -162,14 +169,15 @@
     },
     {
       "id": 8,
-      "title": "ASHLEY GALVIN",
-      "images":"https://i.ibb.co/Yyzgm48/cooperate.png",
+      "title": "Kupah James",
+      "images":"https://i.ibb.co/9rQNP9j/normal8.jpg",
+      "coverImage":"https://i.ibb.co/nfqKBbD/bg8.jpg",
       "description" :[ {
           "part1" : "Ashley Galvin is a yoga instructor based in Southern California. She is known around the world for her strength and flexibility, and she constantly inspires others with her yoga practice.",
           "part2":"Ashley spent her childhood between the beaches and mountains of California. Inspired by the healthy lifestyle of her parents, she embarked on a journey to learn more about nutrition and the benefits of active living. That path led her to her first yoga class in 2009, where she fell in love with the practice.",
           "part3":"Determined to help empower others through yoga, she began teaching in 2011 and has since taught workshops, retreats, and classes all over the world. Her strong, dynamic flows help cultivate body awareness, empower others to embrace their unique gifts, and give students a deep understanding of their yoga practice."
           }],
-        "series":"ASHLEY’S SERIES",
+        "series":"Kupah’S SERIES",
         "classes":[{
             "class_id":8,
             "class_img":"https://i.ibb.co/Yyzgm48/cooperate.png",
@@ -185,14 +193,15 @@
     },
     {
       "id": 9,
-      "title": "ASHLEY GALVIN",
-      "images":"https://i.ibb.co/Yyzgm48/cooperate.png",
+      "title": "Adrine Rabena",
+      "images":"https://i.ibb.co/rFD0H5P/normal9.jpg",
+      "coverImage":"https://i.ibb.co/5ky7zj4/bg9.jpg",
       "description" :[ {
           "part1" : "Ashley Galvin is a yoga instructor based in Southern California. She is known around the world for her strength and flexibility, and she constantly inspires others with her yoga practice.",
           "part2":"Ashley spent her childhood between the beaches and mountains of California. Inspired by the healthy lifestyle of her parents, she embarked on a journey to learn more about nutrition and the benefits of active living. That path led her to her first yoga class in 2009, where she fell in love with the practice.",
           "part3":"Determined to help empower others through yoga, she began teaching in 2011 and has since taught workshops, retreats, and classes all over the world. Her strong, dynamic flows help cultivate body awareness, empower others to embrace their unique gifts, and give students a deep understanding of their yoga practice."
           }],
-        "series":"ASHLEY’S SERIES",
+        "series":"Adrine’S SERIES",
         "classes":[{
             "class_id":9,
             "class_img":"https://i.ibb.co/Yyzgm48/cooperate.png",
@@ -208,14 +217,15 @@
     },
     {
       "id": 10,
-      "title": "ASHLEY GALVIN",
-      "images":"https://i.ibb.co/Yyzgm48/cooperate.png",
+      "title": "Jacy Cunning",
+      "images":"https://i.ibb.co/3yh9ZfH/normal10.jpg",
+      "coverImage":"https://i.ibb.co/R7ypMKN/bg10.jpg",
       "description" :[ {
           "part1" : "Ashley Galvin is a yoga instructor based in Southern California. She is known around the world for her strength and flexibility, and she constantly inspires others with her yoga practice.",
           "part2":"Ashley spent her childhood between the beaches and mountains of California. Inspired by the healthy lifestyle of her parents, she embarked on a journey to learn more about nutrition and the benefits of active living. That path led her to her first yoga class in 2009, where she fell in love with the practice.",
           "part3":"Determined to help empower others through yoga, she began teaching in 2011 and has since taught workshops, retreats, and classes all over the world. Her strong, dynamic flows help cultivate body awareness, empower others to embrace their unique gifts, and give students a deep understanding of their yoga practice."
           }],
-        "series":"ASHLEY’S SERIES",
+        "series":"JAck’S SERIES",
         "classes":[{
             "class_id":10,
             "class_img":"https://i.ibb.co/Yyzgm48/cooperate.png",
