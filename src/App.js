@@ -9,6 +9,7 @@ import AuthProvider from './context/AuthProvider';
 import Instructors from './Components/Instructors/Instructors';
 import InstructorDetails from './Components/Instructors/InstructorDetails';
 import NotFound from './Components/NotFound';
+import Courses from './Components/Classes/Courses';
 
 function App() {
   return (
@@ -31,6 +32,9 @@ function App() {
               </Route>
               <Route path="/instructors/:tutorId">
                 <InstructorDetails></InstructorDetails>
+              </Route>
+              <Route path="/courses">
+                <Courses></Courses>
               </Route>
               <Route exact path="/signup">
                 <Signup></Signup>

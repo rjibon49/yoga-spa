@@ -121,3 +121,28 @@
 .instructor-img {
 	margin-top: -120px;
 }
+
+/* Course Style  */
+
+.play-bg {
+    min-height: 253px;
+    margin: -6px;
+    border-radius: 5px;
+    background-color: rgba(24, 21, 21, 0.459);
+}
+.play-button {
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    display: block;
+    padding-top: 15%;
+}
+.play-icon {
+    font-size: 100px;
+    color: white;
+    margin: auto;
+    display: block;
+}
+.play-icon:hover {
+    color: slategrey;
+}
