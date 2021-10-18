@@ -1,9 +1,14 @@
 import React from 'react';
+import AboutContents from './AboutContents';
+import NeedYoga from './NeedYoga';
+import Offer from './Offer';
 
 const About = () => {
     return (
         <div>
-            <h1>This is about</h1>
+            <NeedYoga></NeedYoga>
+            <AboutContents></AboutContents>
+            <Offer></Offer>
         </div>
     );
 };

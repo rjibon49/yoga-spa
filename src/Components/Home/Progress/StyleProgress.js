@@ -20,8 +20,6 @@ const Progress = ({content, done}) => {
 			    <div className="progress-done justify-content-between" style={style}>
                     <div className="ps-3">{content}</div>
                     <div className="pe-3">{done}%</div>
-                    
-                    
 			    </div>
 		    </div>
         </div>

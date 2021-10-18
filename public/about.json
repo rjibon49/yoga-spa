@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Workshops",
+    "subtitle": "We guarantee the safety and sterility of medical equipment as well as the non-disclosure of information.",
+    "images":"https://i.ibb.co/Yyzgm48/cooperate.png"
+  },
+  {
+    "id": 2,
+    "title": "Retreats",
+    "subtitle": "Doctors of our clinic have international certificates and are recognized all over the world. All staff are interned abroad..",
+    "images":"https://i.ibb.co/whNdLSw/retreat.png"
+  },
+  {
+    "id": 3,
+    "title": "Healing",
+    "subtitle": "You can make an appointment for a doctor and also receive a reminder before the visit to the clinic.",
+    "images":"https://i.ibb.co/fCbvfX7/heal.png"
+  },
+  {
+    "id": 4,
+    "title": "Teacher",
+    "subtitle": "We use only the most modern medical equipment, skills for modern trends and innovations introducing into our practice.",
+    "images":"https://i.ibb.co/jGCXy0h/teacher.png"
+  },
+  {
+    "id": 5,
+    "title": "Fitness",
+    "subtitle": "We have developed special programs allowing our clients to periodically visit a doctor to monitor their health.",
+    "images":"https://i.ibb.co/BnZxC7H/fitness.png"
+  },
+  {
+    "id": 6,
+    "title": "Trainers",
+    "subtitle": "Modern medicine is developing very quickly and we can offer our clients the most up-to-date approaches and protocols.",
+    "images":"https://i.ibb.co/Ct4ZqNK/trainer.png"
+  }
+]

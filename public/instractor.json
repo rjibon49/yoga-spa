@@ -1,0 +1,232 @@
+[
+    {
+      "id": 1,
+      "title": "ASHLEY GALVIN",
+      "images":"https://i.ibb.co/Yyzgm48/cooperate.png",
+      "description" :[ {
+          "part1" : "Ashley Galvin is a yoga instructor based in Southern California. She is known around the world for her strength and flexibility, and she constantly inspires others with her yoga practice.",
+          "part2":"Ashley spent her childhood between the beaches and mountains of California. Inspired by the healthy lifestyle of her parents, she embarked on a journey to learn more about nutrition and the benefits of active living. That path led her to her first yoga class in 2009, where she fell in love with the practice.",
+          "part3":"Determined to help empower others through yoga, she began teaching in 2011 and has since taught workshops, retreats, and classes all over the world. Her strong, dynamic flows help cultivate body awareness, empower others to embrace their unique gifts, and give students a deep understanding of their yoga practice."
+          }],
+        "series":"ASHLEY’S SERIES",
+        "classes":[{
+            "class_id":1,
+            "class_img":"https://i.ibb.co/Yyzgm48/cooperate.png",
+            "class_title":"POWER YOGA SCULPT",
+            "class_module":6,
+            "class_lavel":"Intermediate",
+            "class_view":26171,
+            "class_details":[{
+                "part1":"Meet the perfect blend of flow and fitness. Power Yoga Sculpt includes six vinyasa classes that incorporate weights to build the burn. Whether you're a yogi or a fitness enthusiast, you will love the strength and cardio elements woven into each sequence.",
+                "part2":" You’ll find three classes to target your arms, legs, and core, followed by three total-body classes for days when you want it all. By combining both yoga and strength-building exercises, you will challenge your muscles and mind while taking your practice to a whole new level."      
+                }]
+        }]
+    },
+    {
+      "id": 2,
+      "title": "ASHLEY GALVIN",
+      "images":"https://i.ibb.co/Yyzgm48/cooperate.png",
+      "description" :[ {
+          "part1" : "Ashley Galvin is a yoga instructor based in Southern California. She is known around the world for her strength and flexibility, and she constantly inspires others with her yoga practice.",
+          "part2":"Ashley spent her childhood between the beaches and mountains of California. Inspired by the healthy lifestyle of her parents, she embarked on a journey to learn more about nutrition and the benefits of active living. That path led her to her first yoga class in 2009, where she fell in love with the practice.",
+          "part3":"Determined to help empower others through yoga, she began teaching in 2011 and has since taught workshops, retreats, and classes all over the world. Her strong, dynamic flows help cultivate body awareness, empower others to embrace their unique gifts, and give students a deep understanding of their yoga practice."
+          }],
+        "series":"ASHLEY’S SERIES",
+        "classes":[{
+            "class_id":2,
+            "class_img":"https://i.ibb.co/Yyzgm48/cooperate.png",
+            "class_title":"POWER YOGA SCULPT",
+            "class_module":6,
+            "class_lavel":"Intermediate",
+            "class_view":26171,
+            "class_details":[{
+                "part1":"Meet the perfect blend of flow and fitness. Power Yoga Sculpt includes six vinyasa classes that incorporate weights to build the burn. Whether you're a yogi or a fitness enthusiast, you will love the strength and cardio elements woven into each sequence.",
+                "part2":" You’ll find three classes to target your arms, legs, and core, followed by three total-body classes for days when you want it all. By combining both yoga and strength-building exercises, you will challenge your muscles and mind while taking your practice to a whole new level."      
+                }]
+        }]
+    },
+    {
+      "id": 3,
+      "title": "ASHLEY GALVIN",
+      "images":"https://i.ibb.co/Yyzgm48/cooperate.png",
+      "description" :[ {
+          "part1" : "Ashley Galvin is a yoga instructor based in Southern California. She is known around the world for her strength and flexibility, and she constantly inspires others with her yoga practice.",
+          "part2":"Ashley spent her childhood between the beaches and mountains of California. Inspired by the healthy lifestyle of her parents, she embarked on a journey to learn more about nutrition and the benefits of active living. That path led her to her first yoga class in 2009, where she fell in love with the practice.",
+          "part3":"Determined to help empower others through yoga, she began teaching in 2011 and has since taught workshops, retreats, and classes all over the world. Her strong, dynamic flows help cultivate body awareness, empower others to embrace their unique gifts, and give students a deep understanding of their yoga practice."
+          }],
+        "series":"ASHLEY’S SERIES",
+        "classes":[{
+            "class_id":3,
+            "class_img":"https://i.ibb.co/Yyzgm48/cooperate.png",
+            "class_title":"POWER YOGA SCULPT",
+            "class_module":6,
+            "class_lavel":"Intermediate",
+            "class_view":26171,
+            "class_details":[{
+                "part1":"Meet the perfect blend of flow and fitness. Power Yoga Sculpt includes six vinyasa classes that incorporate weights to build the burn. Whether you're a yogi or a fitness enthusiast, you will love the strength and cardio elements woven into each sequence.",
+                "part2":" You’ll find three classes to target your arms, legs, and core, followed by three total-body classes for days when you want it all. By combining both yoga and strength-building exercises, you will challenge your muscles and mind while taking your practice to a whole new level."      
+                }]
+        }]
+    },
+    {
+      "id": 4,
+      "title": "ASHLEY GALVIN",
+      "images":"https://i.ibb.co/Yyzgm48/cooperate.png",
+      "description" :[ {
+          "part1" : "Ashley Galvin is a yoga instructor based in Southern California. She is known around the world for her strength and flexibility, and she constantly inspires others with her yoga practice.",
+          "part2":"Ashley spent her childhood between the beaches and mountains of California. Inspired by the healthy lifestyle of her parents, she embarked on a journey to learn more about nutrition and the benefits of active living. That path led her to her first yoga class in 2009, where she fell in love with the practice.",
+          "part3":"Determined to help empower others through yoga, she began teaching in 2011 and has since taught workshops, retreats, and classes all over the world. Her strong, dynamic flows help cultivate body awareness, empower others to embrace their unique gifts, and give students a deep understanding of their yoga practice."
+          }],
+        "series":"ASHLEY’S SERIES",
+        "classes":[{
+            "class_id":4,
+            "class_img":"https://i.ibb.co/Yyzgm48/cooperate.png",
+            "class_title":"POWER YOGA SCULPT",
+            "class_module":6,
+            "class_lavel":"Intermediate",
+            "class_view":26171,
+            "class_details":[{
+                "part1":"Meet the perfect blend of flow and fitness. Power Yoga Sculpt includes six vinyasa classes that incorporate weights to build the burn. Whether you're a yogi or a fitness enthusiast, you will love the strength and cardio elements woven into each sequence.",
+                "part2":" You’ll find three classes to target your arms, legs, and core, followed by three total-body classes for days when you want it all. By combining both yoga and strength-building exercises, you will challenge your muscles and mind while taking your practice to a whole new level."      
+                }]
+        }]
+    },
+    {
+      "id": 5,
+      "title": "ASHLEY GALVIN",
+      "images":"https://i.ibb.co/Yyzgm48/cooperate.png",
+      "description" :[ {
+          "part1" : "Ashley Galvin is a yoga instructor based in Southern California. She is known around the world for her strength and flexibility, and she constantly inspires others with her yoga practice.",
+          "part2":"Ashley spent her childhood between the beaches and mountains of California. Inspired by the healthy lifestyle of her parents, she embarked on a journey to learn more about nutrition and the benefits of active living. That path led her to her first yoga class in 2009, where she fell in love with the practice.",
+          "part3":"Determined to help empower others through yoga, she began teaching in 2011 and has since taught workshops, retreats, and classes all over the world. Her strong, dynamic flows help cultivate body awareness, empower others to embrace their unique gifts, and give students a deep understanding of their yoga practice."
+          }],
+        "series":"ASHLEY’S SERIES",
+        "classes":[{
+            "class_id":5,
+            "class_img":"https://i.ibb.co/Yyzgm48/cooperate.png",
+            "class_title":"POWER YOGA SCULPT",
+            "class_module":6,
+            "class_lavel":"Intermediate",
+            "class_view":26171,
+            "class_details":[{
+                "part1":"Meet the perfect blend of flow and fitness. Power Yoga Sculpt includes six vinyasa classes that incorporate weights to build the burn. Whether you're a yogi or a fitness enthusiast, you will love the strength and cardio elements woven into each sequence.",
+                "part2":" You’ll find three classes to target your arms, legs, and core, followed by three total-body classes for days when you want it all. By combining both yoga and strength-building exercises, you will challenge your muscles and mind while taking your practice to a whole new level."      
+                }]
+        }]
+    },
+    {
+      "id": 6,
+      "title": "ASHLEY GALVIN",
+      "images":"https://i.ibb.co/Yyzgm48/cooperate.png",
+      "description" :[ {
+          "part1" : "Ashley Galvin is a yoga instructor based in Southern California. She is known around the world for her strength and flexibility, and she constantly inspires others with her yoga practice.",
+          "part2":"Ashley spent her childhood between the beaches and mountains of California. Inspired by the healthy lifestyle of her parents, she embarked on a journey to learn more about nutrition and the benefits of active living. That path led her to her first yoga class in 2009, where she fell in love with the practice.",
+          "part3":"Determined to help empower others through yoga, she began teaching in 2011 and has since taught workshops, retreats, and classes all over the world. Her strong, dynamic flows help cultivate body awareness, empower others to embrace their unique gifts, and give students a deep understanding of their yoga practice."
+          }],
+        "series":"ASHLEY’S SERIES",
+        "classes":[{
+            "class_id":6,
+            "class_img":"https://i.ibb.co/Yyzgm48/cooperate.png",
+            "class_title":"POWER YOGA SCULPT",
+            "class_module":6,
+            "class_lavel":"Intermediate",
+            "class_view":26171,
+            "class_details":[{
+                "part1":"Meet the perfect blend of flow and fitness. Power Yoga Sculpt includes six vinyasa classes that incorporate weights to build the burn. Whether you're a yogi or a fitness enthusiast, you will love the strength and cardio elements woven into each sequence.",
+                "part2":" You’ll find three classes to target your arms, legs, and core, followed by three total-body classes for days when you want it all. By combining both yoga and strength-building exercises, you will challenge your muscles and mind while taking your practice to a whole new level."      
+                }]
+        }]
+    },
+    {
+      "id": 7,
+      "title": "ASHLEY GALVIN",
+      "images":"https://i.ibb.co/Yyzgm48/cooperate.png",
+      "description" :[ {
+          "part1" : "Ashley Galvin is a yoga instructor based in Southern California. She is known around the world for her strength and flexibility, and she constantly inspires others with her yoga practice.",
+          "part2":"Ashley spent her childhood between the beaches and mountains of California. Inspired by the healthy lifestyle of her parents, she embarked on a journey to learn more about nutrition and the benefits of active living. That path led her to her first yoga class in 2009, where she fell in love with the practice.",
+          "part3":"Determined to help empower others through yoga, she began teaching in 2011 and has since taught workshops, retreats, and classes all over the world. Her strong, dynamic flows help cultivate body awareness, empower others to embrace their unique gifts, and give students a deep understanding of their yoga practice."
+          }],
+        "series":"ASHLEY’S SERIES",
+        "classes":[{
+            "class_id":7,
+            "class_img":"https://i.ibb.co/Yyzgm48/cooperate.png",
+            "class_title":"POWER YOGA SCULPT",
+            "class_module":6,
+            "class_lavel":"Intermediate",
+            "class_view":26171,
+            "class_details":[{
+                "part1":"Meet the perfect blend of flow and fitness. Power Yoga Sculpt includes six vinyasa classes that incorporate weights to build the burn. Whether you're a yogi or a fitness enthusiast, you will love the strength and cardio elements woven into each sequence.",
+                "part2":" You’ll find three classes to target your arms, legs, and core, followed by three total-body classes for days when you want it all. By combining both yoga and strength-building exercises, you will challenge your muscles and mind while taking your practice to a whole new level."      
+                }]
+        }]
+    },
+    {
+      "id": 8,
+      "title": "ASHLEY GALVIN",
+      "images":"https://i.ibb.co/Yyzgm48/cooperate.png",
+      "description" :[ {
+          "part1" : "Ashley Galvin is a yoga instructor based in Southern California. She is known around the world for her strength and flexibility, and she constantly inspires others with her yoga practice.",
+          "part2":"Ashley spent her childhood between the beaches and mountains of California. Inspired by the healthy lifestyle of her parents, she embarked on a journey to learn more about nutrition and the benefits of active living. That path led her to her first yoga class in 2009, where she fell in love with the practice.",
+          "part3":"Determined to help empower others through yoga, she began teaching in 2011 and has since taught workshops, retreats, and classes all over the world. Her strong, dynamic flows help cultivate body awareness, empower others to embrace their unique gifts, and give students a deep understanding of their yoga practice."
+          }],
+        "series":"ASHLEY’S SERIES",
+        "classes":[{
+            "class_id":8,
+            "class_img":"https://i.ibb.co/Yyzgm48/cooperate.png",
+            "class_title":"POWER YOGA SCULPT",
+            "class_module":6,
+            "class_lavel":"Intermediate",
+            "class_view":26171,
+            "class_details":[{
+                "part1":"Meet the perfect blend of flow and fitness. Power Yoga Sculpt includes six vinyasa classes that incorporate weights to build the burn. Whether you're a yogi or a fitness enthusiast, you will love the strength and cardio elements woven into each sequence.",
+                "part2":" You’ll find three classes to target your arms, legs, and core, followed by three total-body classes for days when you want it all. By combining both yoga and strength-building exercises, you will challenge your muscles and mind while taking your practice to a whole new level."      
+                }]
+        }]
+    },
+    {
+      "id": 9,
+      "title": "ASHLEY GALVIN",
+      "images":"https://i.ibb.co/Yyzgm48/cooperate.png",
+      "description" :[ {
+          "part1" : "Ashley Galvin is a yoga instructor based in Southern California. She is known around the world for her strength and flexibility, and she constantly inspires others with her yoga practice.",
+          "part2":"Ashley spent her childhood between the beaches and mountains of California. Inspired by the healthy lifestyle of her parents, she embarked on a journey to learn more about nutrition and the benefits of active living. That path led her to her first yoga class in 2009, where she fell in love with the practice.",
+          "part3":"Determined to help empower others through yoga, she began teaching in 2011 and has since taught workshops, retreats, and classes all over the world. Her strong, dynamic flows help cultivate body awareness, empower others to embrace their unique gifts, and give students a deep understanding of their yoga practice."
+          }],
+        "series":"ASHLEY’S SERIES",
+        "classes":[{
+            "class_id":9,
+            "class_img":"https://i.ibb.co/Yyzgm48/cooperate.png",
+            "class_title":"POWER YOGA SCULPT",
+            "class_module":6,
+            "class_lavel":"Intermediate",
+            "class_view":26171,
+            "class_details":[{
+                "part1":"Meet the perfect blend of flow and fitness. Power Yoga Sculpt includes six vinyasa classes that incorporate weights to build the burn. Whether you're a yogi or a fitness enthusiast, you will love the strength and cardio elements woven into each sequence.",
+                "part2":" You’ll find three classes to target your arms, legs, and core, followed by three total-body classes for days when you want it all. By combining both yoga and strength-building exercises, you will challenge your muscles and mind while taking your practice to a whole new level."      
+                }]
+        }]
+    },
+    {
+      "id": 10,
+      "title": "ASHLEY GALVIN",
+      "images":"https://i.ibb.co/Yyzgm48/cooperate.png",
+      "description" :[ {
+          "part1" : "Ashley Galvin is a yoga instructor based in Southern California. She is known around the world for her strength and flexibility, and she constantly inspires others with her yoga practice.",
+          "part2":"Ashley spent her childhood between the beaches and mountains of California. Inspired by the healthy lifestyle of her parents, she embarked on a journey to learn more about nutrition and the benefits of active living. That path led her to her first yoga class in 2009, where she fell in love with the practice.",
+          "part3":"Determined to help empower others through yoga, she began teaching in 2011 and has since taught workshops, retreats, and classes all over the world. Her strong, dynamic flows help cultivate body awareness, empower others to embrace their unique gifts, and give students a deep understanding of their yoga practice."
+          }],
+        "series":"ASHLEY’S SERIES",
+        "classes":[{
+            "class_id":10,
+            "class_img":"https://i.ibb.co/Yyzgm48/cooperate.png",
+            "class_title":"POWER YOGA SCULPT",
+            "class_module":6,
+            "class_lavel":"Intermediate",
+            "class_view":26171,
+            "class_details":[{
+                "part1":"Meet the perfect blend of flow and fitness. Power Yoga Sculpt includes six vinyasa classes that incorporate weights to build the burn. Whether you're a yogi or a fitness enthusiast, you will love the strength and cardio elements woven into each sequence.",
+                "part2":" You’ll find three classes to target your arms, legs, and core, followed by three total-body classes for days when you want it all. By combining both yoga and strength-building exercises, you will challenge your muscles and mind while taking your practice to a whole new level."      
+                }]
+        }]
+    }
+]
