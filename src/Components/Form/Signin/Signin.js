@@ -1,7 +1,7 @@
 import {signInWithEmailAndPassword , getAuth } from "firebase/auth";
 import React, { useState } from 'react';
 import { Form, Button, Nav  } from 'react-bootstrap';
-import { Link } from 'react-router-dom';
+import { Link, } from 'react-router-dom';
 import useAuth from '../../../hooks/useAuth';
 
 const Signin = () => {
