@@ -10,6 +10,8 @@ import Instructors from './Components/Instructors/Instructors';
 import InstructorDetails from './Components/Instructors/InstructorDetails';
 import NotFound from './Components/NotFound';
 import Courses from './Components/Classes/Courses';
+import CourseDetails from './Components/Classes/CourseDetails';
+import Footer from './Components/Shared/Footer';
 
 function App() {
   return (
@@ -36,6 +38,9 @@ function App() {
               <Route path="/courses">
                 <Courses></Courses>
               </Route>
+              <Route path="/course/:courseId">
+                <CourseDetails></CourseDetails>
+              </Route>
               <Route exact path="/signup">
                 <Signup></Signup>
               </Route>
@@ -47,6 +52,7 @@ function App() {
               </Route>
               
             </Switch>
+            <Footer></Footer>
         </Router>
       </AuthProvider>
     </div>

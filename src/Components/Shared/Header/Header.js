@@ -15,7 +15,7 @@ const Header = () => {
         <>
           <Navbar bg="light" expand="md" sticky="top">
             <Container fluid>
-              <Navbar.Brand as={Link} to="/">BrandiHub</Navbar.Brand>
+            <Navbar.Brand className="fs-2" as={Link} to="/">Yoga <i className="fas fa-spa"></i> Spa</Navbar.Brand>
                 <Navbar.Toggle aria-controls="navbarScroll" />
                   <Navbar.Collapse id="navbarScroll">
                     <Nav className="mx-auto my-4 my-lg-0" >

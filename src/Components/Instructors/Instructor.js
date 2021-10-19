@@ -13,7 +13,6 @@ const Instructor = ({instructor}) => {
                     </Link>
                 </div>
             </div>
-            
         </div>
     );
 };
