@@ -19,10 +19,15 @@ const Header = () => {
                       <Nav.Link className="me-2" as={Link} to="/about">About</Nav.Link>
                       <Nav.Link className="me-2" as={Link} to="/instructors">Instructor</Nav.Link>
                       <Nav.Link className="me-2" as={Link} to="/courses">Courses</Nav.Link>
+                      {
+                        user?.email && <h5 className="m-auto">Welcome ({user.displayName})</h5>
+                      }
+                      
+                      {user.email ? 
+                      <button onClick={lockDown} className=" ms-2 me-3 fs-4 bg-transparent border-0 text-secondary">Logout</button> 
+                      :
                       <Nav.Link as={Link} to="/signin">Sign In</Nav.Link>
-                      <h5 className="m-auto">Welcome ({user.displayName})</h5>
-                      {user?.email && 
-                      <button onClick={lockDown} className=" ms-2 me-3 fs-4 bg-transparent border-0 text-secondary">Logout</button> }
+                       }
                       
                       
                       {/* <Navbar.Text>
