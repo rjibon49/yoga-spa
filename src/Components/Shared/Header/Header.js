@@ -1,6 +1,3 @@
-
-import { faUserCircle } from '@fortawesome/free-regular-svg-icons';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React from 'react';
 import { Container, Form, FormControl, Nav, Navbar, Button } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
@@ -8,8 +5,7 @@ import useAuth from '../../../hooks/useAuth';
 import  '../../../GlobalStyle/GlobalStyle.css';
 
 const Header = () => {
-  const userCircle = <FontAwesomeIcon icon={faUserCircle} />
-    const {user, logout} = useAuth;
+    const {user, lockDown} = useAuth();
 
     return (
         <>
@@ -18,18 +14,20 @@ const Header = () => {
             <Navbar.Brand className="fs-2" as={Link} to="/">Yoga <i className="fas fa-spa"></i> Spa</Navbar.Brand>
                 <Navbar.Toggle aria-controls="navbarScroll" />
                   <Navbar.Collapse id="navbarScroll">
-                    <Nav className="mx-auto my-4 my-lg-0" >
-                      <Nav.Link as={Link} to="/home">Home</Nav.Link>
-                      <Nav.Link as={Link} to="/about">About</Nav.Link>
-                      <Nav.Link as={Link} to="/instructors">Instructor</Nav.Link>
-                      <Nav.Link as={Link} to="/courses">Courses</Nav.Link>
-                      {user?.email ?
-                      <Button onClick={logout} variant="warning">Logout</Button> :
-                      <Nav.Link as={Link} to="/signin">{userCircle}</Nav.Link>}
+                    <Nav className="mx-auto my-4 my-lg-0 fs-4" >
+                      <Nav.Link className="me-2" as={Link} to="/home">Home</Nav.Link>
+                      <Nav.Link className="me-2" as={Link} to="/about">About</Nav.Link>
+                      <Nav.Link className="me-2" as={Link} to="/instructors">Instructor</Nav.Link>
+                      <Nav.Link className="me-2" as={Link} to="/courses">Courses</Nav.Link>
+                      <Nav.Link as={Link} to="/signin">Sign In</Nav.Link>
+                      <h5 className="m-auto">Welcome ({user.displayName})</h5>
+                      {user?.email && 
+                      <button onClick={lockDown} className=" ms-2 me-3 fs-4 bg-transparent border-0 text-secondary">Logout</button> }
                       
-                      <Navbar.Text>
+                      
+                      {/* <Navbar.Text>
                         <p className="text-black">Sign In <a href="#login">{user?.displayName}</a></p>
-                      </Navbar.Text>
+                      </Navbar.Text> */}
 
                     </Nav>
                 <Form className="d-flex">

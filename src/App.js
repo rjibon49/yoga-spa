@@ -12,6 +12,7 @@ import NotFound from './Components/NotFound';
 import Courses from './Components/Classes/Courses';
 import CourseDetails from './Components/Classes/CourseDetails';
 import Footer from './Components/Shared/Footer';
+import PrivetRout from './Components/PrivetRoute/PrivetRout';
 
 function App() {
   return (
@@ -38,9 +39,9 @@ function App() {
               <Route path="/courses">
                 <Courses></Courses>
               </Route>
-              <Route path="/course/:courseId">
+              <PrivetRout path="/course/:courseId">
                 <CourseDetails></CourseDetails>
-              </Route>
+              </PrivetRout>
               <Route exact path="/signup">
                 <Signup></Signup>
               </Route>
