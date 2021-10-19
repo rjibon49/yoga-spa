@@ -37,8 +37,20 @@
     min-height: 835px;
 }
 
-.banner-title {
-    padding-top: 250px;
+/* .banner-title {
+    background-color: darkolivegreen;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+} */
+
+.banner-title-text {
+    font-size: 48px;
+    letter-spacing: 0.08em;
+    padding-top: 15%;
+    font-weight: 700;
+    text-transform: uppercase;
 }
 
 /* About-Info Style  */
@@ -55,10 +67,9 @@
 	background-color: #d8d8d8;
 	border-radius: 20px;
 	position: relative;
-	margin: 15px 0;
-	height: 30px;
+	height: 40px;
 	width: 450px;
-    margin: 0 auto;
+    margin: 30px auto;
 }
 
 .progress-done {
@@ -182,3 +193,8 @@
     text-decoration:  none;
     font-size: 20px;
 }
+
+/* .not-found button {
+    margin-top: 430;
+    margin-left: 575px;
+} */

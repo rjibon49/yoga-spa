@@ -15,19 +15,19 @@ const AboutInfo = () => {
                         </div>
                         <div className="row mx-auto mb-3">
                             <div className="col-2">
-                                <i class="fas fa-hospital-symbol fs-1 icon-color"></i>
+                                <i className="fas fa-hospital-symbol fs-1 icon-color"></i>
                             </div>
                             <div className="col-10 pe-5 mb-3">
                                 <p className="pe-5"><strong>Improveing health.</strong> Health is given to man from birth, but, unfortunately, modern man forgets that the stock of this health is finite, and continues to behave as if he is eternal.</p>
                             </div>
                             <div className="col-2">
-                                <i class="fas fa-snowflake fs-1 icon-color"></i>
+                                <i className="fas fa-snowflake fs-1 icon-color"></i>
                             </div>
                             <div className="col-10 pe-5 mb-3">
                                 <p className="pe-5"><strong>Getting rid of stress and nervous disorders. </strong>Yoga is today one of the best remedies for neuropsychiatric disorders, that helps to believe in yourself.</p>
                             </div>
                             <div className="col-2">
-                                <i class="fas fa-spa fs-1 icon-color"></i>
+                                <i className="fas fa-spa fs-1 icon-color"></i>
                             </div>
                             <div className="col-10 pe-5">
                                 <p className="pe-5"><strong>Spiritual development. </strong> The practice of yoga develops the body to the level of mental mobility so that both the body and mind become mobile.</p>

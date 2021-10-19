@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const MonthlyMember = () => {
     return (
@@ -11,12 +12,14 @@ const MonthlyMember = () => {
                         <div className="bg-secondary text-white pt-3 pb-5">
                             <p className="fs-3 py-4">$50</p>
                             <ul className="list-group text-start px-4 text-white pb-5">
-                                <li className="list-group-item border-0 bg-secondary text-white"><i class="fas fa-arrow-right"></i> 2-hour yoga workshop</li>
-                                <li className="list-group-item border-0 bg-secondary text-white"><i class="fas fa-arrow-right"></i> 1-hour of meditation</li>
-                                <li className="list-group-item border-0 bg-secondary text-white"><i class="fas fa-arrow-right"></i> personal trainer</li>
-                                <li className="list-group-item border-0 bg-secondary text-white"><i class="fas fa-arrow-right"></i> carpet as a gift</li>
+                                <li className="list-group-item border-0 bg-secondary text-white"><i className="fas fa-arrow-right"></i> 2-hour yoga workshop</li>
+                                <li className="list-group-item border-0 bg-secondary text-white"><i className="fas fa-arrow-right"></i> 1-hour of meditation</li>
+                                <li className="list-group-item border-0 bg-secondary text-white"><i className="fas fa-arrow-right"></i> personal trainer</li>
+                                <li className="list-group-item border-0 bg-secondary text-white"><i className="fas fa-arrow-right"></i> carpet as a gift</li>
                             </ul>
-                            <button className="btn btn-primary">Start Now</button>
+                            <Link to="/notFound">
+                                <button className="btn btn-primary">Start Now</button>
+                            </Link>
                         </div>
                     </div>
                 </div>
@@ -29,12 +32,14 @@ const MonthlyMember = () => {
                         <div className="bg-secondary text-white pt-3 pb-5">
                             <p className="fs-3 py-4">$200</p>
                             <ul className="list-group text-start px-4 text-white pb-5">
-                                <li className="list-group-item border-0 bg-secondary text-white"><i class="fas fa-arrow-right"></i> 2-hour yoga workshop</li>
-                                <li className="list-group-item border-0 bg-secondary text-white"><i class="fas fa-arrow-right"></i> 1-hour of meditation</li>
-                                <li className="list-group-item border-0 bg-secondary text-white"><i class="fas fa-arrow-right"></i> personal trainer</li>
-                                <li className="list-group-item border-0 bg-secondary text-white"><i class="fas fa-arrow-right"></i> carpet as a gift</li>
+                                <li className="list-group-item border-0 bg-secondary text-white"><i className="fas fa-arrow-right"></i> 2-hour yoga workshop</li>
+                                <li className="list-group-item border-0 bg-secondary text-white"><i className="fas fa-arrow-right"></i> 1-hour of meditation</li>
+                                <li className="list-group-item border-0 bg-secondary text-white"><i className="fas fa-arrow-right"></i> personal trainer</li>
+                                <li className="list-group-item border-0 bg-secondary text-white"><i className="fas fa-arrow-right"></i> carpet as a gift</li>
                             </ul>
-                            <button className="btn btn-primary">Start Now</button>
+                            <Link to="/notFound">
+                                <button className="btn btn-primary">Start Now</button>
+                            </Link>
                         </div>
                     </div>
                 </div>
@@ -47,12 +52,14 @@ const MonthlyMember = () => {
                         <div className="bg-secondary text-white pt-3 pb-5">
                             <p className="fs-3 py-4">$120</p>
                             <ul className="list-group text-start px-4 text-white pb-5">
-                                <li className="list-group-item border-0 bg-secondary text-white"><i class="fas fa-arrow-right"></i>  2-hour yoga workshop</li>
-                                <li className="list-group-item border-0 bg-secondary text-white"><i class="fas fa-arrow-right"></i>  1-hour of meditation</li>
-                                <li className="list-group-item border-0 bg-secondary text-white"><i class="fas fa-arrow-right"></i>  personal trainer</li>
-                                <li className="list-group-item border-0 bg-secondary text-white"><i class="fas fa-arrow-right"></i>  carpet as a gift</li>
+                                <li className="list-group-item border-0 bg-secondary text-white"><i className="fas fa-arrow-right"></i>  2-hour yoga workshop</li>
+                                <li className="list-group-item border-0 bg-secondary text-white"><i className="fas fa-arrow-right"></i>  1-hour of meditation</li>
+                                <li className="list-group-item border-0 bg-secondary text-white"><i className="fas fa-arrow-right"></i>  personal trainer</li>
+                                <li className="list-group-item border-0 bg-secondary text-white"><i className="fas fa-arrow-right"></i>  carpet as a gift</li>
                             </ul>
-                            <button className="btn btn-primary">Start Now</button>
+                            <Link to="/notFound">
+                                <button className="btn btn-primary">Start Now</button>
+                            </Link>
                         </div>
                     </div>
                 </div>
@@ -65,12 +72,14 @@ const MonthlyMember = () => {
                         <div className="bg-secondary text-white pt-3 pb-5">
                             <p className="fs-3 py-4">$90</p>
                             <ul className="list-group text-start px-4 text-white pb-5">
-                                <li className="list-group-item border-0 bg-secondary text-white"><i class="fas fa-arrow-right"></i> 2-hour yoga workshop</li>
-                                <li className="list-group-item border-0 bg-secondary text-white"><i class="fas fa-arrow-right"></i> 1-hour of meditation</li>
-                                <li className="list-group-item border-0 bg-secondary text-white"><i class="fas fa-arrow-right"></i> personal trainer</li>
-                                <li className="list-group-item border-0 bg-secondary text-white"><i class="fas fa-arrow-right"></i> carpet as a gift</li>
+                                <li className="list-group-item border-0 bg-secondary text-white"><i className="fas fa-arrow-right"></i> 2-hour yoga workshop</li>
+                                <li className="list-group-item border-0 bg-secondary text-white"><i className="fas fa-arrow-right"></i> 1-hour of meditation</li>
+                                <li className="list-group-item border-0 bg-secondary text-white"><i className="fas fa-arrow-right"></i> personal trainer</li>
+                                <li className="list-group-item border-0 bg-secondary text-white"><i className="fas fa-arrow-right"></i> carpet as a gift</li>
                             </ul>
-                            <button className="btn btn-primary">Start Now</button>
+                            <Link to="/notFound">
+                                <button className="btn btn-primary">Start Now</button>
+                            </Link>
                         </div>
                     </div>
                 </div>

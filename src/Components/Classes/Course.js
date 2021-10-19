@@ -12,7 +12,7 @@ const Course = ({course}) => {
                         <div className="play-bg">
                             <Link to={`/course/${id}`} className="play-icon text-decoration-none">
                                 <span className="play-button">
-                                    <i class="far fa-play-circle play-icon "></i>
+                                    <i className="far fa-play-circle play-icon "></i>
                                 </span>
                             </Link>
                         </div>

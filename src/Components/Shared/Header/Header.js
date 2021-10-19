@@ -19,8 +19,16 @@ const Header = () => {
                       <Nav.Link className="me-2" as={Link} to="/about">About</Nav.Link>
                       <Nav.Link className="me-2" as={Link} to="/instructors">Instructor</Nav.Link>
                       <Nav.Link className="me-2" as={Link} to="/courses">Courses</Nav.Link>
+                      
                       {
-                        user?.email && <h5 className="m-auto">Welcome ({user.displayName})</h5>
+                        user?.email && <h5 className="m-auto">(</h5>
+                      }
+                      {
+                        user.email ? <h5 className="m-auto" >{user.displayName}</h5> :
+                        <h5 className="m-auto">{user.email}</h5>
+                      }
+                      {
+                        user?.email && <h5 className="m-auto">)</h5>
                       }
                       
                       {user.email ? 
@@ -28,11 +36,6 @@ const Header = () => {
                       :
                       <Nav.Link as={Link} to="/signin">Sign In</Nav.Link>
                        }
-                      
-                      
-                      {/* <Navbar.Text>
-                        <p className="text-black">Sign In <a href="#login">{user?.displayName}</a></p>
-                      </Navbar.Text> */}
 
                     </Nav>
                 <Form className="d-flex">

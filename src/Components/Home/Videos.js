@@ -15,7 +15,7 @@ const Videos = () => {
                                 <div className="video-bg">
                                     <Link to={`/course/${v.id}`} className="play-icon text-decoration-none">
                                     <span className="play-button">
-                                        <i class="far fa-play-circle play-icon "></i>
+                                        <i className="far fa-play-circle play-icon "></i>
                                     </span>
                                     </Link>
                                 </div>

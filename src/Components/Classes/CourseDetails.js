@@ -24,7 +24,7 @@ const CourseDetails = () => {
                             <div className="video-play">
                                 <div className="coursedetails-bg">
                                      <span className="coursedetails-button">
-                                        <i class="far fa-play-circle play-icon "></i>
+                                        <i className="far fa-play-circle play-icon "></i>
                                     </span>
                                 </div>
                             </div>
@@ -32,7 +32,7 @@ const CourseDetails = () => {
                     </div>
                     <div className="col-xl-6 col- col-sm-12 my-5">
                         <div className="">
-                            <h1 className="details-title">{class_title} <i class="fas fa-lock"></i></h1>
+                            <h1 className="details-title">{class_title} <i className="fas fa-lock"></i></h1>
                             <div className="row">
                                 <div className="col-1">
                                     <img className="details-image" src={images} alt="" />
@@ -43,7 +43,7 @@ const CourseDetails = () => {
                                     </Link>
                                 </div>
 
-                                <table class="table table-borderless w-75 fs-4">
+                                <table className="table table-borderless w-75 fs-4">
                                     <thead>
                                         <tr>
                                         <th scope="col-"></th>
@@ -70,7 +70,9 @@ const CourseDetails = () => {
                                 <div>
                                     <p className="fs-4">{classPart1}</p>
                                 </div>
-                                <button className=" w-100 py-4 fs-2 bold btn-primary btn"><strong>START FREE TRIAL</strong></button>
+                                <Link to="/notFound">
+                                    <button className=" w-100 py-4 fs-2 bold btn-primary btn"><strong>START FREE TRIAL</strong></button>
+                                </Link>
                             </div>
                         </div>
 

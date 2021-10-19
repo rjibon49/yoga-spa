@@ -76,8 +76,10 @@ const Signup = () => {
                     </Button>
                     </Form>
 
-                    <Button onClick={signInUsingGoogle} variant="primary">Google</Button>
-                    <Button onClick={signInUsingGithub} variant="primary">Google</Button>
+                    <div className="text-center my-5 pb-5">
+                        <Button onClick={signInUsingGoogle} variant="dark" className="me-3 fs-4"><i className="fab fa-google"></i> Google Sign In</Button>
+                        <Button onClick={signInUsingGithub} variant="dark" className="me-3 fs-4"><i className="fab fa-github"></i> Github Sign In</Button>
+                    </div>
                 </div>
             </div>            
         </div>
