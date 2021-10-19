@@ -1,4 +1,4 @@
-import { getAuth, signInWithPopup, GoogleAuthProvider, signOut, onAuthStateChanged, GithubAuthProvider , signInWithEmailAndPassword } from "firebase/auth";
+import { getAuth, signInWithPopup, GoogleAuthProvider, signOut, onAuthStateChanged, GithubAuthProvider } from "firebase/auth";
 import { useEffect, useState } from "react";
 import initializationAuth from "../Components/Form/Firebase/firebaseinit";
 
@@ -7,6 +7,7 @@ initializationAuth();
 const useFirebase = () => {
     const [user, setUser] = useState({});
     const [error, setError] = useState('');
+    const [isLoding, setIsLoding] = useState(true);
 
     const auth = getAuth();
 
@@ -14,24 +15,24 @@ const useFirebase = () => {
     const githubProvider  = new GithubAuthProvider ();
 
     const signInUsingGoogle = () => {
+        setIsLoding(true);
         signInWithPopup(auth, googleProvider)
         .then(result => {
             setUser(result.user);
-            console.log(result.user);
         })
-        .catch(error=> {
-            setError(error.message);
-        })
+        .finally(() => 
+        setIsLoding(false));
+
     }
     const signInUsingGithub = () => {
+        setIsLoding(true);
         signInWithPopup(auth, githubProvider)
         .then(result => {
             setUser(result.user);
             console.log(result.user);
         })
-        .catch(error=> {
-            setError(error.message);
-        })
+        .finally(() => 
+        setIsLoding(false));
     }
 
 
@@ -44,19 +45,24 @@ const useFirebase = () => {
             else {
                 setUser({})
             }
+            setIsLoding(false);
         });
         return () => unsubscribed;
     }, [])
 
     const lockDown = () => {
+        setIsLoding(true);
         signOut(auth)
         .then(() => {
             setUser({});
-        });
+        })
+        .finally(() => 
+        setIsLoding(false));
     }
 
     return {
         user,
+        isLoding,
         signInUsingGoogle,
         signInUsingGithub,
         lockDown,
