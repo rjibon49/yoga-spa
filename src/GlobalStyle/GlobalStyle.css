@@ -87,6 +87,11 @@
     margin: 20px 0;
 }
 
+/* Videos  */
+.card {
+    box-shadow: 6px 6px #21252959;
+}
+
 /* Instrctor Page Style  */
 .instructor-bg {
 	background-image: url(../Images/Banner/instractor-bg.jpg);

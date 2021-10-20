@@ -3,8 +3,8 @@ import { Link } from 'react-router-dom';
 
 const MonthlyMember = () => {
     return (
-        <div className="row mt-5">
-            <div className="col-xl-3 col-md-6 col-sm-12">
+        <div className="row mb-5 mt-5">
+            <div className="col-xl-3 col-md-6 col-sm-12 mb-5">
                 <div className="text-center">
                     <div className="bg-dark text-white pt-5 rounded">
                         <h5>One yoga class</h5>

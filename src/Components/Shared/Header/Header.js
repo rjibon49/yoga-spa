@@ -9,32 +9,32 @@ const Header = () => {
 
     return (
         <>
-          <Navbar bg="light" expand="md" sticky="top">
+          <Navbar bg="dark" expand="md" sticky="top">
             <Container fluid>
-            <Navbar.Brand className="fs-2" as={Link} to="/">Yoga <i className="fas fa-spa"></i> Spa</Navbar.Brand>
+            <Navbar.Brand className="fs-2 text-white fw-bold" as={Link} to="/">Yoga <i className="fas fa-spa"></i> Spa</Navbar.Brand>
                 <Navbar.Toggle aria-controls="navbarScroll" />
                   <Navbar.Collapse id="navbarScroll">
-                    <Nav className="mx-auto my-4 my-lg-0 fs-4" >
-                      <Nav.Link className="me-2" as={Link} to="/home">Home</Nav.Link>
-                      <Nav.Link className="me-2" as={Link} to="/about">About</Nav.Link>
-                      <Nav.Link className="me-2" as={Link} to="/instructors">Instructor</Nav.Link>
-                      <Nav.Link className="me-2" as={Link} to="/courses">Courses</Nav.Link>
+                    <Nav className="mx-auto my-4 my-lg-0 fs-5 text-white" >
+                      <Nav.Link className="me-2 text-white" as={Link} to="/home">Home</Nav.Link>
+                      <Nav.Link className="me-2 text-white" as={Link} to="/about">About</Nav.Link>
+                      <Nav.Link className="me-2 text-white" as={Link} to="/instructors">Instructor</Nav.Link>
+                      <Nav.Link className="me-2 text-white" as={Link} to="/courses">Courses</Nav.Link>
                       
                       {
-                        user?.email && <h5 className="m-auto">(</h5>
+                        user?.email && <small className="m-auto">(</small>
                       }
                       {
-                        user.email ? <h5 className="m-auto" >{user.displayName}</h5> :
+                        user.email ? <small className="m-auto" >{user.displayName}</small> :
                         <h5 className="m-auto">{user.email}</h5>
                       }
                       {
-                        user?.email && <h5 className="m-auto">)</h5>
+                        user?.email && <small className="m-auto">)</small>
                       }
                       
                       {user.email ? 
-                      <button onClick={lockDown} className=" ms-2 me-3 fs-4 bg-transparent border-0 text-secondary">Logout</button> 
+                      <button onClick={lockDown} className=" ms-2 me-3 fs-5 bg-transparent border-0 text-white">Logout</button> 
                       :
-                      <Nav.Link as={Link} to="/signin">Sign In</Nav.Link>
+                      <Nav.Link className="me-2 text-white" as={Link} to="/signin">Sign In</Nav.Link>
                        }
 
                     </Nav>
