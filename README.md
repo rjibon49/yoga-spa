@@ -1,6 +1,10 @@
 # Yoga-Spa Fitness Trainnig Center [Yoga-Spa](https://keynote-aba7c.web.app).
 
 ## Some Information About Yoga-Spa
+ -	Responsive Fitness Institute Web Application. 
+ -	Watch Fitness Training Video Anywhere any time.  
+ -	Instructor Information with Profile.
+
  - The Service is a fitness social network. Users of the Service users may log their fitness activities.
  - In order to use the Service, you must create an account. When registering for an account, you must provide accurate and complete information and promptly update this information to keep it current.
  - Top class Fitness trainer here to improve your fitness problem.
